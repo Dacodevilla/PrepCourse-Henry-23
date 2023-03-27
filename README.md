@@ -1,2 +1,1 @@
-# PrepCourse-Henry-23
-Este es un repo de prueba del modulo II del Prepcourse de Henry
+Este es un metodo de prueba de como crear un repo y clonarlo desde Github a mi escritorio local
